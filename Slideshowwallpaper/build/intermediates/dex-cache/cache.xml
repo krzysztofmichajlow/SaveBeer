@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_44953582d570646f692b8122e2ee2eb2e0b21f4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="496b648767d4e3c0c9cc852655b476b04ed029a2">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b413570a0019a51586c1c74d3a11f7238189af45\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programy\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_eb83ce1a0c73acf00fdb567cafd0fbbbf200073b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_6ac793404059fabe18bcbf2fdad3d54dd123df4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_4aa1b7e939099fab10530bd39f4cd842f54d66db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7cac2a35d94c11ce4326d987d2b81fdd89f8449">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6fff9efd6d67953fa90d5e7835b83c2523587a13\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_d6c6dabd913b7356128e22db8e47eaaa49206313\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\Slideshowwallpaper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_c0fbac73894f24f548175fa9601eb546c367e6d9\classes.dex" />
+    </item>
+
+</items>

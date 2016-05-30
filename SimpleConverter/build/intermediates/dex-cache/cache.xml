@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_f2766c61282596502c9376699555b097e95164fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="97464615b64231b0075b0635f81c643d373f0914">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_645369b0babfe13e5ec755d970be854feacc08b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a3deb8c9fd040cba0e710001afafc300a355aed">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5be63ad473e60b60ef69b62f41f7a36e488eb5e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_84906920c9503dca321f9f9b64bbafe106949266\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programy\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_eb83ce1a0c73acf00fdb567cafd0fbbbf200073b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_1ed807abb4330a0a068188ee6e868bb8eb386e3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_f9d4905f2eda494da3b11c8adc943bb67e3642dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Wampirek\AndroidStudioProjects\SimpleConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_a17f90a5d8a2d37a576ce9e727022631566a7f0f\classes.dex" />
+    </item>
+
+</items>
